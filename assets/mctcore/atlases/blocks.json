@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "mct",
+      "prefix": "mct/"
+    },
+    {
+      "type": "directory",
+      "source": "ranks",
+      "prefix": "ranks/"
+    },
+    {
+      "type": "directory",
+      "source": "ss",
+      "prefix": "ss/"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "mctcore:ranks/director.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["ꀀ"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "mctcore:ranks/coordinator.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["ꀁ"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "mctcore:ranks/lead.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["ꀆ"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "mctcore:ranks/team-member.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["ꀈ"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "mctcore:ranks/company.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["ꀊ"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "mctcore:ranks/character.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["ꌔ"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "mctcore:ranks/guest.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["ꀌ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mctcore:ranks/choreographer.png",
+            "ascent": 42,
+            "height": 62,
+            "chars": ["ᚠ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mctcore:ranks/logo.png",
+            "ascent": 42,
+            "height": 62,
+            "chars": ["ꡥ"]
+        }
+    ]
+}

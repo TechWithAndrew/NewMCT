@@ -1,0 +1,13 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "block/carved_pumpkin"
+    },
+    "entries": [
+      { "threshold": 2, "model": { "type": "model", "model": "mctcore:mct/bradglasses" } }
+    ]
+  }
+}
