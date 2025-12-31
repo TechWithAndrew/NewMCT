@@ -8,8 +8,9 @@
     },
     "entries": [
         { "threshold": 1, "model": { "type": "model", "model": "mctcore:ss/chainsaw" } },
-		{ "threshold": 2, "model": { "type": "model", "model": "mctcore:mct/model" } },
-		{ "threshold": 3, "model": { "type": "model", "model": "mctcore:ss/delorean" } }
+		{ "threshold": 2, "model": { "type": "model", "model": "mctcore:mct/streetlight" } },
+		{ "threshold": 3, "model": { "type": "model", "model": "mctcore:ss/delorean" } },
+		{ "threshold": 4, "model": { "type": "model", "model": "mctcore:mct/trashcan" } }
 		
     ] 
   } 
