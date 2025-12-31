@@ -1,8 +1,8 @@
 {
 	"credit": "Made By MrAnsk",
 	"textures": {
-		"0": "item/sombreado7",
-		"particle": "item/sombreado7"
+		"0": "mctcore:mct/sombreado7",
+		"particle": "mctcore:mct/sombreado7"
 	},
 	"elements": [
 		{
