@@ -3,7 +3,7 @@
 	"credit": "MadewithBlockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "mctcore:avenue/street_light_big"
+		"3": "mctcore:avenue/street_light_big"
 	},
 	"elements": [
 		{
