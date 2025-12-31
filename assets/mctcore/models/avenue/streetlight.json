@@ -1,7 +1,7 @@
 {
 	"format_version": "1.21.11",
 	"credit": "MadewithBlockbench",
-	"texture_size": [32, 32],
+	"texture_size": [64, 64],
 	"textures": {
 		"0": "mctcore:avenue/street_light_big"
 	},
