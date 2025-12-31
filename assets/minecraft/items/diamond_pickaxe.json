@@ -8,7 +8,7 @@
     },
     "entries": [
         { "threshold": 1, "model": { "type": "model", "model": "mctcore:ss/chainsaw" } },
-		{ "threshold": 2, "model": { "type": "model", "model": "mctcore:avenue/street_light_big" } },
+		{ "threshold": 2, "model": { "type": "model", "model": "mctcore:mct/model" } },
 		{ "threshold": 3, "model": { "type": "model", "model": "mctcore:ss/delorean" } }
 		
     ] 
