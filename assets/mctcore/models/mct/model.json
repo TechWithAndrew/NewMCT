@@ -1,9 +1,9 @@
 {
 	"format_version": "1.21.11",
 	"credit": "MadewithBlockbench",
-	"texture_size": [32, 32],
+	"texture_size": [64,64],
 	"textures": {
-		"3": "mctcore:avenue/street_light_big"
+		"3": "mctcore:mcy/street_light_big"
 	},
 	"elements": [
 		{
