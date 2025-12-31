@@ -3,7 +3,7 @@
 	"credit": "MadewithBlockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "city_streets:security_fence"
+		"1": "mctcore:mct/security_fence"
 	},
 	"elements": [
 		{
