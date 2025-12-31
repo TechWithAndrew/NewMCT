@@ -1,7 +1,10 @@
 {
   "pack": {
-    "description": "The Official Resourcepack For MCTheatrics",
-    "min_format": 68,
-    "max_format": 75
+    "pack_format": 75,
+    "supported_formats": {
+      "min_inclusive": 68,
+      "max_inclusive": 75
+    },
+    "description": "The Official Resourcepack For MCTheatrics"
   }
 }
