@@ -12,7 +12,7 @@
 		{ "threshold": 3, "model": { "type": "model", "model": "mctcore:ss/delorean" } },
 		{ "threshold": 4, "model": { "type": "model", "model": "mctcore:mct/trashcan" } },
 		{ "threshold": 5, "model": { "type": "model", "model": "mctcore:mct/barricade" } },
-		{ "threshold": 6, "model": { "type": "model", "model": "mctcore:ss/pie_winner_check" } 	
+		{ "threshold": 6, "model": { "type": "model", "model": "mctcore:ss/pie_winner_check" } }
     ] 
   } 
 }
