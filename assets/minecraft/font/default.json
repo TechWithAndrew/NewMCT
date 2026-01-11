@@ -72,6 +72,87 @@
             "height": 7,
             "chars": ["佄"]
         },
+
+                {
+            "type": "bitmap",
+            "file": "mctcore:ranks/warning.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["亠"]
+        },
+
+                {
+            "type": "bitmap",
+            "file": "mctcore:ranks/check_mark.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["亡"]
+        },
+
+                {
+            "type": "bitmap",
+            "file": "mctcore:ranks/cross_mark.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["亢"]
+        },
+
+                {
+            "type": "bitmap",
+            "file": "mctcore:ranks/left_arrow.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["亣"]
+        },
+
+                {
+            "type": "bitmap",
+            "file": "mctcore:ranks/right_arrow.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["交"]
+        },
+
+                {
+            "type": "bitmap",
+            "file": "mctcore:ranks/chat_bubble_silver.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["亥"]
+        },
+
+                {
+            "type": "bitmap",
+            "file": "mctcore:ranks/exclamation_gold.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["亦"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "mctcore:ranks/exclamation_silver.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["产"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "mctcore:ranks/question_red.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["亨"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "mctcore:ranks/coin_gold.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["亩"]
+        },
+        
         
         {
             "type": "bitmap",
