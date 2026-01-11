@@ -68,40 +68,40 @@
         {
             "type": "bitmap",
             "file": "mctcore:ranks/star.png",
-            "ascent": 7,
-            "height": 7,
+            "ascent": 11,
+            "height": 11,
             "chars": ["佄"]
         },
 
                 {
             "type": "bitmap",
             "file": "mctcore:ranks/check_mark.png",
-            "ascent": 7,
-            "height": 7,
+            "ascent": 11,
+            "height": 11,
             "chars": ["亡"]
         },
 
                 {
             "type": "bitmap",
             "file": "mctcore:ranks/cross_mark.png",
-            "ascent": 7,
-            "height": 7,
+            "ascent": 11,
+            "height": 11,
             "chars": ["亢"]
         },
 
                 {
             "type": "bitmap",
             "file": "mctcore:ranks/left_arrow.png",
-            "ascent": 7,
-            "height": 7,
+            "ascent": 11,
+            "height": 11,
             "chars": ["亣"]
         },
 
                 {
             "type": "bitmap",
             "file": "mctcore:ranks/right_arrow.png",
-            "ascent": 7,
-            "height": 7,
+            "ascent": 11,
+            "height": 11,
             "chars": ["交"]
         },
 
@@ -116,32 +116,32 @@
                 {
             "type": "bitmap",
             "file": "mctcore:ranks/exclamation_gold.png",
-            "ascent": 10,
-            "height": 10,
+            "ascent": 11,
+            "height": 11,
             "chars": ["亦"]
         },
 
         {
             "type": "bitmap",
             "file": "mctcore:ranks/exclamation_silver.png",
-            "ascent": 7,
-            "height": 10,
+            "ascent": 11,
+            "height": 11,
             "chars": ["产"]
         },
 
         {
             "type": "bitmap",
             "file": "mctcore:ranks/question_red.png",
-            "ascent": 7,
-            "height": 10,
+            "ascent": 11,
+            "height": 11,
             "chars": ["亨"]
         },
 
         {
             "type": "bitmap",
             "file": "mctcore:ranks/coin_gold.png",
-            "ascent": 7,
-            "height": 10,
+            "ascent": 11,
+            "height": 11,
             "chars": ["亩"]
         },
         
