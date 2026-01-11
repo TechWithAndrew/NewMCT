@@ -1,7 +1,0 @@
-{
-	"parent": "minecraft:block/t_foliage_notint1",
-	"textures": {
-		"0": "minecraft:block/nether_wart_stage0",
-		"1": "minecraft:block/nether_wart_stage0"
-	}
-}

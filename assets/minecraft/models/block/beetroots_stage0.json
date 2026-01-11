@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:block/t_seed",
-	"textures": {
-		"0": "minecraft:block/beetroots_stage0"
-	}
-}

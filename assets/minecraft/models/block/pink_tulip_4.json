@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:block/t_flower1_4",
-	"textures": {
-		"0": "minecraft:block/pink_tulip"
-	}
-}

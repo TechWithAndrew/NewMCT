@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:block/t_foliage_notint8",
-	"textures": {
-		"0": "minecraft:block/lilac_top"
-	}
-}

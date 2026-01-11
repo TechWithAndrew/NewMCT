@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:block/leaves_notint2",
-	"textures": {
-		"0": "minecraft:block/cherry_leaves"
-	}
-}

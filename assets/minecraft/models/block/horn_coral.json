@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:block/t_foliage_notint6",
-	"textures": {
-		"0": "minecraft:block/horn_coral"
-	}
-}

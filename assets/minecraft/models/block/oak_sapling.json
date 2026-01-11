@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:block/t_foliage_notint4",
-	"textures": {
-		"0": "minecraft:block/oak_sapling"
-	}
-}

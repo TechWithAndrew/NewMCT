@@ -1,8 +1,0 @@
-{
-	"parent": "minecraft:block/t_nylium",
-	"textures": {
-		"s": "minecraft:block/crimson_nylium_side",
-		"t": "minecraft:block/crimson_nylium",
-		"b": "minecraft:block/netherrack"
-	}
-}
