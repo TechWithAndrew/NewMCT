@@ -1,0 +1,7 @@
+{
+	"parent": "block/t_flower2",
+	"textures": {
+		"0": "block/lily_of_the_valley",
+		"particle": "block/lily_of_the_valley"
+	}
+}

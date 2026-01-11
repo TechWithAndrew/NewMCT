@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/t_foliage_notint5",
+	"textures": {
+		"0": "minecraft:block/medium_amethyst_bud"
+	}
+}

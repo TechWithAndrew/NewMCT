@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/t_flower1_2",
+	"textures": {
+		"0": "minecraft:block/oxeye_daisy"
+	}
+}
