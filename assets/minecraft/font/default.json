@@ -55,13 +55,24 @@
             "height": 7,
             "chars": ["ꀌ"]
         },
+        
         {
             "type": "bitmap",
             "file": "mctcore:ranks/choreographer.png",
             "ascent": 42,
             "height": 62,
             "chars": ["ᚠ"]
+            
         },
+        
+        {
+            "type": "bitmap",
+            "file": "mctcore:ranks/star.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["佄"]
+        },
+        
         {
             "type": "bitmap",
             "file": "mctcore:ranks/logo.png",
