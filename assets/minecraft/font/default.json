@@ -75,14 +75,6 @@
 
                 {
             "type": "bitmap",
-            "file": "mctcore:ranks/warning.png",
-            "ascent": 7,
-            "height": 7,
-            "chars": ["亐"]
-        },
-
-                {
-            "type": "bitmap",
             "file": "mctcore:ranks/check_mark.png",
             "ascent": 7,
             "height": 7,
@@ -148,8 +140,8 @@
         {
             "type": "bitmap",
             "file": "mctcore:ranks/coin_gold.png",
-            "ascent": 7,
-            "height": 7,
+            "ascent": 10,
+            "height": 10,
             "chars": ["亩"]
         },
         
