@@ -1,0 +1,14 @@
+{
+	"variants": {
+		"": [
+		{ "model": "minecraft:block/cactus", "weight": 34 },
+		{ "model": "minecraft:block/cactus1", "weight": 24 },
+		{ "model": "minecraft:block/cactus1", "y": 90, "weight": 24 },
+		{ "model": "minecraft:block/cactus1", "y": 180, "weight": 24 },
+		{ "model": "minecraft:block/cactus1", "y": 270, "weight": 24 },
+		{ "model": "minecraft:block/cactus2", "weight": 6 },
+		{ "model": "minecraft:block/cactus2", "y": 90, "weight": 6 },
+		{ "model": "minecraft:block/cactus2", "y": 180, "weight": 6 },
+		{ "model": "minecraft:block/cactus2", "y": 270, "weight": 6 }]
+	}
+}

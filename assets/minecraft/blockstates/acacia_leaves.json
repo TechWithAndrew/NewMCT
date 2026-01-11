@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": [
+		{ "model": "minecraft:block/acacia_leaves1" },
+		{ "model": "minecraft:block/acacia_leaves2" }]
+	}
+}
