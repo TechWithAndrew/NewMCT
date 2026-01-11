@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/t_hanging_plants",
+	"textures": {
+		"0": "minecraft:block/cave_vines_lit"
+	}
+}

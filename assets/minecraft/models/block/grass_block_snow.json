@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/t_grass_block_snow",
+	"textures": {
+		"s_n": "minecraft:block/grass_block_snow",
+		"t": "minecraft:block/grass_block_top",
+		"b": "minecraft:block/dirt",
+		"sn": "minecraft:block/snow"
+	}
+}

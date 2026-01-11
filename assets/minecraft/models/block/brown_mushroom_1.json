@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/t_flower1_1",
+	"textures": {
+		"0": "minecraft:block/brown_mushroom"
+	}
+}

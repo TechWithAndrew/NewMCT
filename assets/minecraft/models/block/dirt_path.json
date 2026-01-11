@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/grass_path",
+	"textures": {
+		"s": "minecraft:block/dirt_path_side",
+		"t": "minecraft:block/dirt_path_top",
+		"b": "minecraft:block/dirt"
+	}
+}
