@@ -108,32 +108,32 @@
                 {
             "type": "bitmap",
             "file": "mctcore:ranks/chat_bubble_silver.png",
-            "ascent": 7,
-            "height": 7,
+            "ascent": 11,
+            "height": 11,
             "chars": ["亥"]
         },
 
                 {
             "type": "bitmap",
             "file": "mctcore:ranks/exclamation_gold.png",
-            "ascent": 7,
-            "height": 7,
+            "ascent": 10,
+            "height": 10,
             "chars": ["亦"]
         },
 
         {
             "type": "bitmap",
             "file": "mctcore:ranks/exclamation_silver.png",
-            "ascent": 7,
-            "height": 7,
+            "ascent": 10,
+            "height": 10,
             "chars": ["产"]
         },
 
         {
             "type": "bitmap",
             "file": "mctcore:ranks/question_red.png",
-            "ascent": 7,
-            "height": 7,
+            "ascent": 10,
+            "height": 10,
             "chars": ["亨"]
         },
 
@@ -141,7 +141,7 @@
             "type": "bitmap",
             "file": "mctcore:ranks/coin_gold.png",
             "ascent": 10,
-            "height": 7,
+            "height": 10,
             "chars": ["亩"]
         },
         
