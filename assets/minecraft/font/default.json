@@ -145,7 +145,6 @@
             "chars": ["亩"]
         },
         
-        
         {
             "type": "bitmap",
             "file": "mctcore:ranks/logo.png",
