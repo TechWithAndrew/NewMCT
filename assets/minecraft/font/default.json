@@ -73,7 +73,7 @@
             "chars": ["佄"]
         },
 
-                {
+        {
             "type": "bitmap",
             "file": "mctcore:ranks/check_mark.png",
             "ascent": 11,
@@ -81,7 +81,7 @@
             "chars": ["亡"]
         },
 
-                {
+        {
             "type": "bitmap",
             "file": "mctcore:ranks/cross_mark.png",
             "ascent": 11,
@@ -89,7 +89,7 @@
             "chars": ["亢"]
         },
 
-                {
+        {
             "type": "bitmap",
             "file": "mctcore:ranks/left_arrow.png",
             "ascent": 11,
@@ -97,7 +97,7 @@
             "chars": ["亣"]
         },
 
-                {
+        {
             "type": "bitmap",
             "file": "mctcore:ranks/right_arrow.png",
             "ascent": 11,
@@ -105,7 +105,7 @@
             "chars": ["交"]
         },
 
-                {
+        {
             "type": "bitmap",
             "file": "mctcore:ranks/chat_bubble_silver.png",
             "ascent": 11,
@@ -113,7 +113,7 @@
             "chars": ["亥"]
         },
 
-                {
+        {
             "type": "bitmap",
             "file": "mctcore:ranks/exclamation_gold.png",
             "ascent": 11,
@@ -140,7 +140,7 @@
         {
             "type": "bitmap",
             "file": "mctcore:ranks/coin_gold.png",
-            "ascent": 5,
+            "ascent": 11,
             "height": 11,
             "chars": ["亩"]
         },
