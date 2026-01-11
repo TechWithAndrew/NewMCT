@@ -140,7 +140,7 @@
         {
             "type": "bitmap",
             "file": "mctcore:ranks/coin_gold.png",
-            "ascent": 5,
+            "ascent": 7,
             "height": 11,
             "chars": ["亩"]
         },
