@@ -50,6 +50,15 @@
 
         {
             "type": "bitmap",
+            "file": "mctcore:ranks/cast.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["ꃐ"]
+        },
+
+        
+        {
+            "type": "bitmap",
             "file": "mctcore:ranks/guest.png",
             "ascent": 7,
             "height": 7,
