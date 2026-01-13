@@ -3,7 +3,7 @@
 	"credit": "Made/Last Edited By Firethrone482",
 	"textures": {
 		"0": "block/bricks",
-		"1": "block/sandstone",
+		"1": "block/sandstone_top",
 		"3": "block/green_concrete_powder",
 		"4": "block/white_stained_glass",
 		"particle": "block/bricks"
