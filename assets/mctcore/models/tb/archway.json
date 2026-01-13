@@ -5,7 +5,7 @@
 		"0": "block/bricks",
 		"1": "block/sandstone_top",
 		"2": "block/green_concrete_powder",
-		"particle": "Downloads/brick"
+		"particle": "block/bricks"
 	},
 	"elements": [
 		{
