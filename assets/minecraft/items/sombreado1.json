@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "mctcore:mct/sombreado1",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": 0
+      }
+    ]
+  }
+}
