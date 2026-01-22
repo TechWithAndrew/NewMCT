@@ -11,7 +11,22 @@
 		{ "threshold": 2, "model": { "type": "model", "model": "mctcore:mct/streetlight" } },
 		{ "threshold": 3, "model": { "type": "model", "model": "mctcore:ss/delorean" } },
 		{ "threshold": 4, "model": { "type": "model", "model": "mctcore:mct/trashcan" } },
-		{ "threshold": 5, "model": { "type": "model", "model": "mctcore:mct/barricade" } }
+		{ "threshold": 5, "model": { "type": "model", "model": "mctcore:mct/barricade" } },
+		{ "threshold": 6, "model": { "type": "model", "model": "mctcore:tb/door" } },
+		{ "threshold": 7, "model": { "type": "model", "model": "mctcore:tb/archway" } },
+		{ "threshold": 8, "model": { "type": "model", "model": "mctcore:tb/archwayb" } },
+		{ "threshold": 9, "model": { "type": "model", "model": "mctcore:tb/doorway" } },
+		{ "threshold": 10, "model": { "type": "model", "model": "mctcore:tb/wall1" } },
+		{ "threshold": 11, "model": { "type": "model", "model": "mctcore:tb/wall2" } },
+		{ "threshold": 12, "model": { "type": "model", "model": "mctcore:tb/window" } },
+		{ "threshold": 13, "model": { "type": "model", "model": "mctcore:band/s_electricpiano" } },
+		{ "threshold": 14, "model": { "type": "model", "model": "mctcore:band/s_trombone" } },
+		{ "threshold": 15, "model": { "type": "model", "model": "mctcore:band/s_guitar" } },
+		{ "threshold": 16, "model": { "type": "model", "model": "mctcore:band/s_drumset" } },
+		{ "threshold": 17, "model": { "type": "model", "model": "mctcore:band/s_mic_stage" } },
+		{ "threshold": 18, "model": { "type": "model", "model": "mctcore:band/s_microphone" } },
+		{ "threshold": 19, "model": { "type": "model", "model": "mctcore:band/s_trumpet" } },
+		{ "threshold": 20, "model": { "type": "model", "model": "mctcore:band/s_mic_desk_pop" } }
     ] 
   } 
 }
