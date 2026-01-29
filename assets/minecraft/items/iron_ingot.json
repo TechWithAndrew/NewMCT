@@ -11,7 +11,8 @@
 		    { "threshold": 2, "model": { "type": "model", "model": "mctcore:ss/clipboard" } },
         { "threshold": 3, "model": { "type": "model", "model": "mctcore:ss/inhaler" } },
         { "threshold": 4, "model": { "type": "model", "model": "mctcore:ss/rolling_pin" } },
-        { "threshold": 5, "model": { "type": "model", "model": "mctcore:ss/phone" } }
+        { "threshold": 5, "model": { "type": "model", "model": "mctcore:ss/phone" } },
+		{ "threshold": 6, "model": { "type": "model", "model": "mctcore:tb/spotlight" } }
     ] 
   } 
 }
