@@ -8,7 +8,7 @@
     },
     "entries": [
         { "threshold": 1, "model": { "type": "model", "model": "mctcore:mct/paradefloat" } },
-        { "threshold": 2, "model": { "type": "model", "model": "mctcore:mct/annahead" } },
+        { "threshold": 2, "model": { "type": "model", "model": "mctcore:mct/annehead" } },
         { "threshold": 3, "model": { "type": "model", "model": "mctcore:mct/annebody" } },
         { "threshold": 4, "model": { "type": "model", "model": "mctcore:mct/annearmr" } },
         { "threshold": 5, "model": { "type": "model", "model": "mctcore:mct/annelegl" } },
