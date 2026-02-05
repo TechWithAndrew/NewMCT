@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mctcore:mct/dstc_anna_boleyn_main",
-		"particle": "mctcore:mct/dstc_anna_boleyn_main"
+		"0": "mctcore:mct/dstsabm",
+		"particle": "mctcore:mct/dstsabm"
 	},
 	"elements": [
 		{
