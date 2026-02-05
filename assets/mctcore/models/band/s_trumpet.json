@@ -348,8 +348,8 @@
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [-15, -105, -14],
-			"translation": [-1, 1.25, 0.5],
+			"rotation": [-15, -89, -62],
+			"translation": [-6.5, 7.25, 6],
 			"scale": [1.4, 1.4, 1.4]
 		},
 		"thirdperson_lefthand": {
