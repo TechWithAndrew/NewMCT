@@ -2,9 +2,9 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "sixcrown",
+		"0": "item/sixcrown",
 		"1": "block/quartz_block_side",
-		"particle": "sixcrown"
+		"particle": "item/sixcrown"
 	},
 	"elements": [
 		{
