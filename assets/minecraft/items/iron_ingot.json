@@ -16,7 +16,8 @@
 		{ "threshold": 7, "model": { "type": "model", "model": "mctcore:tb/sixthemusicalleftside" } },
 		{ "threshold": 8, "model": { "type": "model", "model": "mctcore:tb/sixthemusicalrightside" } },
 		{ "threshold": 9, "model": { "type": "model", "model": "mctcore:tb/wheel" } },
-		{ "threshold": 10, "model": { "type": "model", "model": "mctcore:tb/carbody" } }
+		{ "threshold": 10, "model": { "type": "model", "model": "mctcore:tb/carbody" } },
+		{ "threshold": 11, "model": { "type": "model", "model": "mctcore:ds/sixfloorwords" } }
     ] 
   } 
 }
