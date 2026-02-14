@@ -18,7 +18,8 @@
 		    { "threshold": 9, "model": { "type": "model", "model": "mctcore:tb/wheel" } },
 		    { "threshold": 10, "model": { "type": "model", "model": "mctcore:tb/carbody" } },
 		    { "threshold": 11, "model": { "type": "model", "model": "mctcore:ds/sixfloorwords" } },
-        { "threshold": 12, "model": { "type": "model", "model": "mctcore:ss/waitresscurtain" } }
+        { "threshold": 12, "model": { "type": "model", "model": "mctcore:ss/waitresscurtain" } },
+        { "threshold": 13, "model": { "type": "model", "model": "mctcore:ss/money" } }
     ] 
   } 
 }
