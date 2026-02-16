@@ -28,7 +28,7 @@
 		{ "threshold": 19, "model": { "type": "model", "model": "mctcore:band/s_trumpet" } },
 		{ "threshold": 20, "model": { "type": "model", "model": "mctcore:band/s_mic_desk_pop" } },
 		{ "threshold": 21, "model": { "type": "model", "model": "mctcore:mct/spotlight_2" } },
-		{ "threshold": 22, "model": { "type": "model", "model": "mctcore:mct/spotlight_3" } },
+		{ "threshold": 22, "model": { "type": "model", "model": "mctcore:mct/spotlight_3" } }
     ] 
   } 
 }
