@@ -1,0 +1,22 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "mincemeat",
+		"particle": "mincemeat"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 0, 16],
+			"faces": {
+				"north": {"uv": [0, 2, 16, 2], "texture": "#missing"},
+				"east": {"uv": [0, 2, 16, 2], "texture": "#missing"},
+				"south": {"uv": [0, 2, 16, 2], "texture": "#missing"},
+				"west": {"uv": [0, 2, 16, 2], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}
