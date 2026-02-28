@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "newsies",
-		"particle": "newsies"
+		"0": "mctcore:mct/newsies",
+		"particle": "mctcore:mct/newsies"
 	},
 	"elements": [
 		{
