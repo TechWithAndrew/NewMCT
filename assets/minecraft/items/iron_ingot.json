@@ -20,7 +20,8 @@
 		    { "threshold": 11, "model": { "type": "model", "model": "mctcore:ds/sixfloorwords" } },
         { "threshold": 12, "model": { "type": "model", "model": "mctcore:ss/waitresscurtain" } },
         { "threshold": 13, "model": { "type": "model", "model": "mctcore:ss/money" } },
-        { "threshold": 14, "model": { "type": "model", "model": "mctcore:ss/earlhat" } }
+        { "threshold": 14, "model": { "type": "model", "model": "mctcore:ss/earlhat" } },
+		{ "threshold": 15, "model": { "type": "model", "model": "mctcore:mct/mincemeat" } }
     ] 
   } 
 }
