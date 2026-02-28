@@ -1,0 +1,37 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "north": "roadmarkings:block/yellow",
+    "south": "roadmarkings:block/default",
+    "east": "roadmarkings:block/yellow",
+    "west": "roadmarkings:block/yellow",
+    "up": "roadmarkings:block/yellow_2",
+    "down": "roadmarkings:block/yellow_2",
+    "particle": "roadmarkings:block/yellow_2"
+  },
+  "elements": [{
+    "from": [0, 0, 0],
+    "to": [16, 16, 16],
+    "faces": {
+      "north": {
+        "texture": "#north"
+      },
+      "south": {
+        "texture": "#south"
+      },
+      "east": {
+        "texture": "#east"
+      },
+      "west": {
+        "texture": "#west"
+      },
+      "up": {
+        "texture": "#up",
+        "uv": [0, 16, 16, 0]
+      },
+      "down": {
+        "texture": "#down"
+      }
+    }
+  }]
+}

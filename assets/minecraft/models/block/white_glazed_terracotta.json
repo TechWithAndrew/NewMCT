@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "north": "roadmarkings:block/white",
+    "south": "roadmarkings:block/white",
+    "east": "roadmarkings:block/default",
+    "west": "roadmarkings:block/default",
+    "up": "roadmarkings:block/white",
+    "down": "roadmarkings:block/white",
+    "particle": "roadmarkings:block/white"
+  }
+}
