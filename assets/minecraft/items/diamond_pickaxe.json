@@ -30,6 +30,7 @@
 		{ "threshold": 21, "model": { "type": "model", "model": "mctcore:mct/spotlight_2" } },
 		{ "threshold": 22, "model": { "type": "model", "model": "mctcore:mct/spotlight_3" } },
 		{ "threshold": 23, "model": { "type": "model", "model": "mctcore:mct/joespiediner" } }
+		
     ] 
   } 
 }
