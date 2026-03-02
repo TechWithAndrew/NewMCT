@@ -23,7 +23,7 @@
         { "threshold": 14, "model": { "type": "model", "model": "mctcore:ss/earlhat" } },
 		{ "threshold": 15, "model": { "type": "model", "model": "mctcore:mct/mincemeat" } },
 		{ "threshold": 16, "model": { "type": "model", "model": "mctcore:mct/newsies" } },
-		{ "threshold": 17, "model": { "type": "model", "model": "mctcore:ss/joespiediner" } }
+		{ "threshold": 17, "model": { "type": "model", "model": "mctcore:mct/joespiediner" } }
     ] 
   } 
 }
