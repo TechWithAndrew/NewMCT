@@ -2,9 +2,9 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "outsiders",
-		"1": "black_concrete",
-		"particle": "outsiders"
+		"0": "mctcore:mct/outsiders",
+		"1": "block/black_concrete",
+		"particle": "mctcore:mct/outsiders"
 	},
 	"elements": [
 		{
