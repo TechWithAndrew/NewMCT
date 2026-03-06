@@ -27,7 +27,8 @@
 		{ "threshold": 18, "model": { "type": "model", "model": "mctcore:tb/backpiece1" } },
 		{ "threshold": 19, "model": { "type": "model", "model": "mctcore:mct/outsiders" } },
     { "threshold": 20, "model": { "type": "model", "model": "mctcore:ss/spatula" } },
-    { "threshold": 21, "model": { "type": "model", "model": "mctcore:ss/mermaid_marshmallow" } }
+    { "threshold": 21, "model": { "type": "model", "model": "mctcore:ss/mermaid_marshmallow" } },
+    { "threshold": 22, "model": { "type": "model", "model": "mctcore:ss/dawnpony" } }
     ] 
   } 
 }
