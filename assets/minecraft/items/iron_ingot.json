@@ -30,7 +30,8 @@
     	{ "threshold": 21, "model": { "type": "model", "model": "mctcore:ss/mermaid_marshmallow" } },
     	{ "threshold": 22, "model": { "type": "model", "model": "mctcore:ss/dawnpony" } },
 		{ "threshold": 23, "model": { "type": "model", "model": "mctcore:mct/hadestown" } },
-		{ "threshold": 24, "model": { "type": "model", "model": "mctcore:mct/marquee" } }
+		{ "threshold": 24, "model": { "type": "model", "model": "mctcore:mct/marquee" } },
+    { "threshold": 25, "model": { "type": "model", "model": "mctcore:ss/card_1" } }
 		
     ] 
   } 
