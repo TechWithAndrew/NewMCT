@@ -12,7 +12,8 @@
         { "threshold": 3, "model": { "type": "model", "model": "mctcore:mct/annebody" } },
         { "threshold": 4, "model": { "type": "model", "model": "mctcore:mct/annearmr" } },
         { "threshold": 5, "model": { "type": "model", "model": "mctcore:mct/annelegl" } },
-        { "threshold": 6, "model": { "type": "model", "model": "mctcore:mct/annelegr" } }
+        { "threshold": 6, "model": { "type": "model", "model": "mctcore:mct/annelegr" } },
+        { "threshold": 7, "model": { "type": "model", "model": "mctcore:mct/joespiediner" } }
     ] 
   } 
 }
