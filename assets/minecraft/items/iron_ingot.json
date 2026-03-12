@@ -38,8 +38,8 @@
     { "threshold": 29, "model": { "type": "model", "model": "mctcore:ss/sstraward" } },
     { "threshold": 30, "model": { "type": "model", "model": "mctcore:ss/prideflag" } },
     { "threshold": 31, "model": { "type": "model", "model": "mctcore:ss/walkingstick" } },
-    { "threshold": 32, "model": { "type": "model", "model": "mctcore:ss/lipstick" } }
-		
+    { "threshold": 32, "model": { "type": "model", "model": "mctcore:ss/lipstick" } },
+		{ "threshold": 33, "model": { "type": "model", "model": "mctcore:ss/hermesmic" } }
     ] 
   } 
 }
