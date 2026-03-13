@@ -39,7 +39,8 @@
     { "threshold": 30, "model": { "type": "model", "model": "mctcore:ss/prideflag" } },
     { "threshold": 31, "model": { "type": "model", "model": "mctcore:ss/walkingstick" } },
     { "threshold": 32, "model": { "type": "model", "model": "mctcore:ss/lipstick" } },
-		{ "threshold": 33, "model": { "type": "model", "model": "mctcore:ss/hermesmic" } }
+		{ "threshold": 33, "model": { "type": "model", "model": "mctcore:ss/hermesmic" } },
+    { "threshold": 34, "model": { "type": "model", "model": "mctcore:ss/menu" } }
     ] 
   } 
 }
