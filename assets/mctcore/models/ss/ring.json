@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/ring",
-		"particle": "block/ring"
+		"0": "mctcore:ss/ring",
+		"particle": "mctcore:ss/ring"
 	},
 	"elements": [
 		{
