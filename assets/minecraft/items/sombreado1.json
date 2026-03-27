@@ -4,7 +4,7 @@
     "model": "mctcore:mct/sombreado1",
     "tints": [
       {
-        "type": "minecraft:dye",
+        "type": "minecraft:",
         "default": 0
       }
     ]
