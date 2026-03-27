@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "spotlight",
-		"particle": "spotlight"
+		"0": "item/sombreado2",
+		"particle": "item/sombreado2"
 	},
 	"elements": [
 		{
