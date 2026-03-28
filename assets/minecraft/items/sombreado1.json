@@ -1,7 +1,7 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "mctcore:mct/sombreado2",
+    "model": "mctcore:mct/sombreado1",
     "tints": [
       {
         "type": "minecraft:dye",
