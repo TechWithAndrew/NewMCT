@@ -42,7 +42,11 @@
 		{ "threshold": 33, "model": { "type": "model", "model": "mctcore:ss/hermesmic" } },
     { "threshold": 34, "model": { "type": "model", "model": "mctcore:ss/menu" } },
     { "threshold": 35, "model": { "type": "model", "model": "mctcore:ss/sliceofpie" } },
-    { "threshold": 36, "model": { "type": "model", "model": "mctcore:ss/ring" } }
+    { "threshold": 36, "model": { "type": "model", "model": "mctcore:ss/ring" } },
+    { "threshold": 37, "model": { "type": "model", "model": "mctcore:ss/hadestable" } },
+    { "threshold": 38, "model": { "type": "model", "model": "mctcore:ss/hadestownlamp" } },
+    { "threshold": 39, "model": { "type": "model", "model": "mctcore:ss/orpheuslyresstr" } },
+    { "threshold": 40, "model": { "type": "model", "model": "mctcore:ss/match" } }
     ] 
   } 
 }
