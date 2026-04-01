@@ -17,8 +17,7 @@
         { "threshold": 8, "model": { "type": "model", "model": "mctcore:mct/trafficcone" } },
         { "threshold": 9, "model": { "type": "model", "model": "mctcore:mct/metroentrance" } },
         { "threshold": 10, "model": { "type": "model", "model": "mctcore:mct/atm" } },
-        { "threshold": 11, "model": { "type": "model", "model": "mctcore:mct/bench" } },
-      
+        { "threshold": 11, "model": { "type": "model", "model": "mctcore:mct/bench" } }
     ] 
   } 
 }
