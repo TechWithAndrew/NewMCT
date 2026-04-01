@@ -6,7 +6,7 @@
 		"2": "mctcore:mct/extras1",
 		"3": "mctcore:mct/atm_screen",
 		"4": "mctcore:mct/card_slot",
-		"particle": "mctcore/mct:extras1"
+		"particle": "mctcore:mct/extras1"
 	},
 	"elements": [
 		{
