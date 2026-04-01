@@ -1825,8 +1825,8 @@
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [16.25, 0.75, -16],
-			"scale": [2.2, 2.2, 2.2]
+			"translation": [17.5, 0.75, -13.75],
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [
