@@ -13,7 +13,10 @@
         { "threshold": 4, "model": { "type": "model", "model": "mctcore:mct/annearmr" } },
         { "threshold": 5, "model": { "type": "model", "model": "mctcore:mct/annelegl" } },
         { "threshold": 6, "model": { "type": "model", "model": "mctcore:mct/annelegr" } },
-        { "threshold": 7, "model": { "type": "model", "model": "mctcore:mct/joespiediner" } }
+        { "threshold": 7, "model": { "type": "model", "model": "mctcore:mct/trashcontainer" } },
+        { "threshold": 8, "model": { "type": "model", "model": "mctcore:mct/trafficcone" } },
+        { "threshold": 9, "model": { "type": "model", "model": "mctcore:mct/metroentrance" } },
+        { "threshold": 10, "model": { "type": "model", "model": "mctcore:mct/atm" } }
     ] 
   } 
 }
