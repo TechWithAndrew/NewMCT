@@ -3,7 +3,7 @@
 	"credit": "MadewithBlockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "city_streets:traffic_cone"
+		"1": "mctcore:mct/traffic_cone"
 	},
 	"elements": [
 		{
