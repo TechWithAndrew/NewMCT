@@ -2,10 +2,10 @@
 	"format_version": "1.21.11",
 	"credit": "MadewithBlockbench",
 	"textures": {
-		"1": "mctcore/mct:atm_machine3",
-		"2": "mctcore/mct:extras1",
-		"3": "mctcore/mct:atm_screen",
-		"4": "mctcore/mct:card_slot",
+		"1": "mctcore:mct/atm_machine3",
+		"2": "mctcore:mct/extras1",
+		"3": "mctcore:mct/atm_screen",
+		"4": "mctcore:mct/card_slot",
 		"particle": "mctcore/mct:extras1"
 	},
 	"elements": [
