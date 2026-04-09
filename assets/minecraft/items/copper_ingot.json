@@ -7,6 +7,7 @@
       "model": "item/copper_ingot"
     },
     "entries": [
+<<<<<<< HEAD
         { "threshold": 1, "model": { "type": "model", "model": "mctcore:item/mct/paradefloat" } },
         { "threshold": 2, "model": { "type": "model", "model": "mctcore:item/mct/annehead" } },
         { "threshold": 3, "model": { "type": "model", "model": "mctcore:item/mct/annebody" } },
@@ -14,6 +15,19 @@
         { "threshold": 5, "model": { "type": "model", "model": "mctcore:item/mct/annelegl" } },
         { "threshold": 6, "model": { "type": "model", "model": "mctcore:item/mct/annelegr" } },
         { "threshold": 7, "model": { "type": "model", "model": "mctcore:item/mct/joespiediner" } }
+=======
+        { "threshold": 1, "model": { "type": "model", "model": "mctcore:mct/paradefloat" } },
+        { "threshold": 2, "model": { "type": "model", "model": "mctcore:mct/annehead" } },
+        { "threshold": 3, "model": { "type": "model", "model": "mctcore:mct/annebody" } },
+        { "threshold": 4, "model": { "type": "model", "model": "mctcore:mct/annearmr" } },
+        { "threshold": 5, "model": { "type": "model", "model": "mctcore:mct/annelegl" } },
+        { "threshold": 6, "model": { "type": "model", "model": "mctcore:mct/annelegr" } },
+        { "threshold": 7, "model": { "type": "model", "model": "mctcore:mct/trashcontainer" } },
+        { "threshold": 8, "model": { "type": "model", "model": "mctcore:mct/trafficcone" } },
+        { "threshold": 9, "model": { "type": "model", "model": "mctcore:mct/metroentrance" } },
+        { "threshold": 10, "model": { "type": "model", "model": "mctcore:mct/atm" } },
+        { "threshold": 11, "model": { "type": "model", "model": "mctcore:mct/bench" } }
+>>>>>>> 69f7bbb7ba786ac057d08ac34ffe47da88c4c6a4
     ] 
   } 
 }
