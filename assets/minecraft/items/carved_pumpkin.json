@@ -7,7 +7,7 @@
       "model": "block/carved_pumpkin"
     },
     "entries": [
-      { "threshold": 2, "model": { "type": "model", "model": "mctcore:mct/bradglasses" } }
+      { "threshold": 2, "model": { "type": "model", "model": "mctcore:item/mct/bradglasses" } }
     ]
   }
 }

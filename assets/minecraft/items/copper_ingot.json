@@ -7,13 +7,13 @@
       "model": "item/copper_ingot"
     },
     "entries": [
-        { "threshold": 1, "model": { "type": "model", "model": "mctcore:mct/paradefloat" } },
-        { "threshold": 2, "model": { "type": "model", "model": "mctcore:mct/annehead" } },
-        { "threshold": 3, "model": { "type": "model", "model": "mctcore:mct/annebody" } },
-        { "threshold": 4, "model": { "type": "model", "model": "mctcore:mct/annearmr" } },
-        { "threshold": 5, "model": { "type": "model", "model": "mctcore:mct/annelegl" } },
-        { "threshold": 6, "model": { "type": "model", "model": "mctcore:mct/annelegr" } },
-        { "threshold": 7, "model": { "type": "model", "model": "mctcore:mct/joespiediner" } }
+        { "threshold": 1, "model": { "type": "model", "model": "mctcore:item/mct/paradefloat" } },
+        { "threshold": 2, "model": { "type": "model", "model": "mctcore:item/mct/annehead" } },
+        { "threshold": 3, "model": { "type": "model", "model": "mctcore:item/mct/annebody" } },
+        { "threshold": 4, "model": { "type": "model", "model": "mctcore:item/mct/annearmr" } },
+        { "threshold": 5, "model": { "type": "model", "model": "mctcore:item/mct/annelegl" } },
+        { "threshold": 6, "model": { "type": "model", "model": "mctcore:item/mct/annelegr" } },
+        { "threshold": 7, "model": { "type": "model", "model": "mctcore:item/mct/joespiediner" } }
     ] 
   } 
 }
