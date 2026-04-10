@@ -152,14 +152,20 @@
             "ascent": 8,
             "height": 11,
             "chars": ["亩"]
-        },
-        
+        },  
         {
             "type": "bitmap",
             "file": "mctcore:ranks/logo.png",
             "ascent": 42,
             "height": 62,
             "chars": ["ꡥ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mctcore:ranks/crew.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["ꀠ"]
         }
     ]
 }
