@@ -18,6 +18,7 @@
         { "threshold": 9, "model": { "type": "model", "model": "mctcore:item/mct/metroentrance" } },
         { "threshold": 10, "model": { "type": "model", "model": "mctcore:item/mct/atm" } },
         { "threshold": 11, "model": { "type": "model", "model": "mctcore:item/mct/bench" } }
+        { "threshold": 12, "model": { "type": "model", "model": "mctcore:item/ss/hadestownlamp" } }
     ] 
   } 
 }
