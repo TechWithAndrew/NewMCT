@@ -46,7 +46,8 @@
     	{ "threshold": 37, "model": { "type": "model", "model": "mctcore:item/ss/hadestable" } },
     	{ "threshold": 38, "model": { "type": "model", "model": "mctcore:item/ss/hadestownlamp" } },
     	{ "threshold": 39, "model": { "type": "model", "model": "mctcore:item/ss/orpheuslyresstr" } },
-    	{ "threshold": 40, "model": { "type": "model", "model": "mctcore:item/ss/match" } }
+    	{ "threshold": 40, "model": { "type": "model", "model": "mctcore:item/ss/match" } },
+		{ "threshold": 41, "model": { "type": "model", "model": "mctcore:item/ss/eurydicebag" } }
     ] 
   } 
 }
