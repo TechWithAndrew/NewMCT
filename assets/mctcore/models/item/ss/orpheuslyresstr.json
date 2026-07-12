@@ -1,10 +1,10 @@
 {
-	"format_version": "1.21.6",
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "mctcore:ss/orpheuslyresstr",
-		"particle": "mctcore:ss/orpheuslyresstr"
+		"0": "block/orpheuslyresstr",
+		"particle": "block/orpheuslyresstr"
 	},
 	"elements": [
 		{
@@ -400,8 +400,8 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [85.64, 2.22, 64.41],
-			"translation": [-3.25, 1.5, 1],
+			"rotation": [94, -11, 64],
+			"translation": [-3.25, -1.25, 1],
 			"scale": [0.75, 0.75, 0.75]
 		},
 		"thirdperson_lefthand": {
